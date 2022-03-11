@@ -1,0 +1,47 @@
+*{
+    background-color: black;
+    background-image: url('97629-mtm-background-effect.gif');
+}
+a{
+    text-decoration: none;
+}
+#header{
+    font-family: 'Metal Mania', cursive;
+    color: white;
+    list-style-type: none;
+    display: flex;
+    padding: 20px 0;
+    
+    justify-content: center;
+    align-items: center;
+}
+#header h4{
+    font-size: 40px;
+}
+#header img{
+    border-radius: 20%;
+}
+#header blockquote{
+    font-size: 30px;
+}
+#header li{
+    display: block;
+    margin: 0 auto;
+
+}
+.time{
+    color: cyan;
+    font-weight: bold;
+    font-family: 'Orbitron', sans-serif;
+}
+.events{
+    color: white;
+    font-family: 'Cabin Sketch', cursive;
+}
+.events h2{
+    font-size: 30px;
+}
+.contact,footer{
+    color: white;
+    font-family: 'Cabin Sketch', cursive;
+}
